@@ -1,0 +1,13 @@
+Team,Date,Home/Away,Goals Scored,Goals Conceded,Result,Key Players Available,Forward Goals,Defensive Stats,Player Performance,Opposition,Weather,Stadium,Crowd,Competition,Season Phase,Playing Style,Formation,Manager Strategy
+Team A,2025-02-20,Home,2,1,Win,Player1;Player2;Player3,Player1:1;Player2:1,Tackles:20;Interceptions:5,Player1:8;Player2:7;Player3:6,Team B,Clear,Stadium A,30000,League,Middle,Offensive,4-3-3,Attacking
+Team B,2025-02-20,Away,1,2,Lose,Player4;Player5,Player4:1,Tackles:15;Interceptions:3,Player4:7;Player5:6,Team A,Clear,Stadium A,30000,League,Middle,Defensive,4-4-2,Counter-Attack
+Team C,2025-02-19,Home,0,0,Draw,Player6;Player7,,Tackles:18;Interceptions:4,Player6:7;Player7:7,Team D,Cloudy,Stadium B,25000,League,Middle,Balanced,4-2-3-1,Possession
+Team D,2025-02-19,Away,0,0,Draw,Player8;Player9,,Tackles:17;Interceptions:5,Player8:7;Player9:6,Team C,Cloudy,Stadium B,25000,League,Middle,Balanced,4-3-3,Possession
+Team A,2025-02-15,Away,1,0,Win,Player1;Player2,Player1:1,Tackles:19;Interceptions:4,Player1:8;Player2:7;Player3:6,Team E,Rainy,Stadium C,20000,League,Middle,Offensive,4-3-3,Attacking
+Team E,2025-02-15,Home,0,1,Lose,Player10;Player11,,Tackles:14;Interceptions:2,Player10:6;Player11:6,Team A,Rainy,Stadium C,20000,League,Middle,Defensive,5-4-1,Defensive
+Team B,2025-02-14,Home,3,2,Win,Player4;Player5;Player12,Player4:2;Player5:1,Tackles:16;Interceptions:3,Player4:8;Player5:7;Player12:7,Team F,Clear,Stadium A,28000,Cup,Middle,Offensive,4-4-2,Attacking
+Team F,2025-02-14,Away,2,3,Lose,Player13;Player14,Player13:1;Player14:1,Tackles:12;Interceptions:1,Player13:7;Player14:6,Team B,Clear,Stadium A,28000,Cup,Middle,Offensive,3-5-2,Attacking
+Team C,2025-02-13,Away,1,1,Draw,Player6;Player7,Player6:1,Tackles:19;Interceptions:5,Player6:7;Player7:7,Team G,Snowy,Stadium D,22000,League,Middle,Balanced,4-2-3-1,Possession
+Team G,2025-02-13,Home,1,1,Draw,Player15;Player16,Player15:1,Tackles:13;Interceptions:3,Player15:7;Player16:6,Team C,Snowy,Stadium D,22000,League,Middle,Defensive,4-4-2,Counter-Attack
+Team D,2025-02-12,Home,2,0,Win,Player8;Player9,Player8:1;Player9:1,Tackles:20;Interceptions:6,Player8:8;Player9:7,Team H,Clear,Stadium B,27000,League,Middle,Balanced,4-3-3,Possession
+Team H,2025-02-12,Away,0,2,Lose,Player17;Player18,,Tackles:12;Interceptions:2,Player17:6;Player18:6,Team D,Clear,Stadium B,27000,League,Middle,Defensive,5-4-1,Defensive
