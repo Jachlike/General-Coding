@@ -23,4 +23,4 @@ The use of SQL in each stage of the cycle is the most important take away as an 
 
 In **Data Collectin**, SQL is used for simply reading/writing/querying structured data. Inserting data into staging tables (tables already carrying information we use)
 
-In **D**
+
